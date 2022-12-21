@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "car": "BMW X1",
+        "image" :"https://upload.wikimedia.org/wikipedia/commons/0/0c/2018_BMW_X1_xDrive18D_Sport_2.0.jpg"
+    },
+    {
+        "id" : 2,
+        "car": "BMW X5",
+        "image" :"https://upload.wikimedia.org/wikipedia/commons/0/04/2016_BMW_X5_xDrive40d_M_Sport_Automatic_3.0_Front.jpg"
+    },
+    {
+        "id" : 3,
+        "car": "Mercedes Gls Suv",
+        "image" :"https://www.pngitem.com/pimgs/m/255-2553654_new-2020-mercedes-benz-gls-gls-audi-q7.png"
+    },
+    {
+        "id" : 4,
+        "car": "Lamborghini",
+        "image" :"https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/images-s/2021/07_07/gate_family_s_01_m.jpg"
+    },
+    {
+        "id" : 5,
+        "car": "Mercedes EQS Sedan",
+        "image" :"https://images.firstpost.com/wp-content/uploads/2021/04/mercedes-benz-eqs-makes-world-premiere-has-a-range-of-upto-770-km.jpg"
+    },    {
+        "id" : 6,
+        "car": "Mercedes CLA COUPE",
+        "image" :"https://www.la.mercedes-benz.com/en/passengercars/mercedes-benz-cars/models/cla/coupe-c118/design/design-multimedia/_jcr_content/mediabox/elements/mediaboxelement/asset.MQ6.0.20210812203344.jpeg"
+    }
+    ,    {
+        "id" : 7,
+        "car": "BMW",
+        "image":"https://cosystatic.bmwgroup.com/bmwweb/cosySec?COSY-EU-100-2545xM4RIyFnbm9Mb3AgyyIJrjG0suyJRBODlsrjGpuaprQbhSIqppglBgoRual384MlficYiGHqoQxYLW7%25f3tiJ0PCJirQbLDWcQW7%251uSGNqoQh47wMvcYi9SDq5Mb3islBglUbI1cRScHz1bMbnMdgokyJGy57u3rQ%25r9YEaW8zWuu5VqogqaRG5l3ilUbGUcRScHJ%256MbnMdoBuyJGy53SBrQ%25r9RKYW8zWubtJqogqaJ23l3ilUQT9cRScH8ZHMbnMdoP2yJGy5BubrQ%25r9Y33W8zWuEJHqogqaFQ8l3ilUjn8cRScHz5BMbnMdg3uyJGy5iRBrQ%25r9SEUW8zWunFbqogqaGCel3ilU%25becRScHzj8MbnMdgsYyJGy5iKnrQ%25r9SQ5W8zWunm7qogqaDjzl3ilUCzjcRScH4e3MbnMdeoiyJGy5m30rQ%25r9sRmW8zWuKSJqogqaDn%25l3ilUCGRcRScHbeiMbnMdJ70yJGy5Q3drQ%25r98R9W8zWuobSqogqa3Gzl3ilUR%256cRScHb%25YMbnMdJbtyJGy5QARrQ%25r98eFW8zWuoxdqogqa3V%25l3ilUUJ5cRScHHQmMbnMddQuyJGy559KrQ%25r90dHW8zWuBjjqogqaY7el3ilUEy0cRScHFNHMbnMdjIEyJGy57kirQ%25r9KaRW8zWuDCbqogqaCJGl38F5MIlBghMlqoQagyoGlBg1jJ3r13F5ot"
+    }
+    ,    {
+        "id" : 8,
+        "car": "Toyota Avalon",
+        "image" :"https://cdn.jdpower.com/JDPA_2020-Toyota-Avalon-XLE-Hybrid-Harbor-Gray-Front-Quarter.jpg"
+    },    {
+        "id" : 9,
+        "car": "Toyota hybrid",
+        "image" :"https://images.hindustantimes.com/auto/img/2022/06/03/600x338/2023_Toyota_Corolla_Cross_Hybrid_SE_001-1500x1000_1654231629771_1654231639309.jpg"
+    }, 
+    {
+        "id" : 10,
+        "car": "Bugatti",
+        "image" :"https://i.ytimg.com/vi/PkkV1vLHUvQ/maxresdefault.jpg"
+    }
+]
